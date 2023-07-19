@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShaguftaAmreen
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Javascript
--  
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me shaguftamuqeeeem2000@gmail.com
 
 <!---
